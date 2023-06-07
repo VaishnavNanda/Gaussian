@@ -27,8 +27,8 @@ Step 8: End the program.
 ## Program:
 ```
 '''Program to solve a matrix using Gaussian elimination with partial pivoting.
-Developed by: M.Tharun Kumar
-RegisterNumber: 212222100056
+Developed by: S VAISHNAV NANDA
+RegisterNumber: 212222240112
 '''
 import numpy as np
 n=int(input())
@@ -52,7 +52,7 @@ for i in range(n):
     print("X%d = %0.2f" %(i,res[i]),end=" ")
 ```
 ## Output:
-![Screenshot 2023-06-06 184316](https://github.com/25tharunkumar/Gaussian/assets/123470785/cc782dd5-6020-4bf8-8082-15013aed3ad0)
+![GITHUB LOGO](/gaus.png)
 
 
 
